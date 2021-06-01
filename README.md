@@ -1,4 +1,5 @@
 # signalr-client-py
+# signalr core基于pyhon的压测库
 
 Python client proxy for [SignalR](http://signalr.net/).
 
